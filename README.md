@@ -2,9 +2,9 @@
 ESP-01s code for generating ICMP/Ping normal and malicious traffic, along with detection of said traffic using Machine Learning.
 
 ### Traffic type
-Both scenarios have a packet header like Microsoft Windows OS.
-Normal : Normal ping packet traffic, meaning 1 second delay for each request sent.
-malicious: continuous ping flood traffic, no delay set.
+Both scenarios have a packet header like Microsoft Windows OS.<br />
+Normal : Normal ping packet traffic, meaning 1 second delay for each request sent.<br />
+Malicious: continuous ping flood traffic, no delay set.
 
 The code found in folders "1-ESP_01s_Scenarios_C++_Code" and "2-Flask_Server_Code" has generated a dataset that can be found here: [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.7772015.svg)](http://dx.doi.org/10.5281/zenodo.7772015)
 
