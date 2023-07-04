@@ -16,8 +16,8 @@ authors:
 - family-names: "Almorabea"
   given-names: "Ahmad"
   orcid: "https://orcid.org/0000-0002-5240-0263"
-title: "Emulation of ICMP/Ping Normal and Malicious Traffic by using ESP-01s"
-version: 1.0.0
-doi: 10.5281/zenodo.7772464
-date-released: 2023-03-27
-url: "https://doi.org/10.5281/zenodo.7772464"
+title: "Code for Emulation of ICMP/Ping Normal and Malicious Traffic by using ESP-01s"
+version: 0.2.0
+doi: 10.5281/zenodo.8112222
+date-released: 2023-07-04
+url: "https://doi.org/10.5281/zenodo.8112222"
