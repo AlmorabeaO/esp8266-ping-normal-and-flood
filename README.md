@@ -14,6 +14,13 @@ Folder "4-Machine_Learning_Code" is where the Machine Learning process happens, 
 
 The publication reference for this work is [here](https://doi.org/10.1109/ACCESS.2023.3327061). 
 
+
+
+If you use this code, please cite it as below.
+
+O. M. Almorabea, T. J. S. Khanzada, M. A. Aslam, F. A. Hendi and A. M. Almorabea, "IoT Network-Based Intrusion Detection Framework: A Solution to Process Ping Floods Originating From Embedded Devices," in IEEE Access, vol. 11, pp. 119118-119145, 2023, doi: 10.1109/ACCESS.2023.3327061.
+
+
 ### Branch
 The flood branch has a code where the ESP just bombards the target IP address.
 
