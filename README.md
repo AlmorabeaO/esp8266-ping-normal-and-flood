@@ -12,7 +12,7 @@ Folder "3-Feature_Extraction_Shell_Script" is where shell script uses the Zeek t
 
 Folder "4-Machine_Learning_Code" is where the Machine Learning process happens, the code is in Jupyter Notebook, python.
 
-The publication reference will be placed here when published. 
+The publication reference for this work is [here](https://doi.org/10.1109/ACCESS.2023.3327061). 
 
 ### Branch
 The flood branch has a code where the ESP just bombards the target IP address.
